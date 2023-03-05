@@ -12,3 +12,28 @@ Use NetworkX of Python to do the following
 Use the connectivity matrix to draw the graph (get an output of the graph)
 
 Derive the distance matrix for the given connectivity matrix using the shape file (as per the coordinates given).
+# Use any programming language without using in-built function to :
+
+1.       Estimate the area formed by the given series of points.
+
+a.       83.258,14.749
+
+b.       80.889,14.309
+
+c.       79.485,14.456
+
+d.       79.388,16.156
+
+e.       80.063,17.290
+
+f.        81.647,17.343
+
+g.       83.451,17.001
+
+h.       83.423,15.626
+
+i.         83.258,14.749
+
+ 
+
+2.       Find whether the line segment formed by (80.146,16.116) and (81.233,17.632) intersect with the above polygon and if so find the point of intersection.
